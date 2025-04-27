@@ -1,4 +1,4 @@
-# places
+# places-test
 <picture>
   <img alt="places Logo" src="https://github.com/custom-components/places/raw/master/logo/icon.png">
 </picture>
